@@ -1,3 +1,5 @@
+[!MF](images/illustration.png)
+
 # E-learning-perso
 
 Ce dépôt contient mes ressources pour le projet e-learning.
