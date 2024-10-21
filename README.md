@@ -1,8 +1,8 @@
-# E-learning
+# E-learning-perso
 
 Ce dépôt contient mes ressources pour le projet e-learning.
 
-## e-learning
+## e-learning-perso
 
 ### 1. Liens Projets 2023-2024.
 
@@ -18,7 +18,29 @@ Ce dépôt contient mes ressources pour le projet e-learning.
 - Judith
 - Rizal
 - David
-- Paloa ?
+
+## Appli Masculin/Féminin
+
+### avec système de points
+
+- résultats différés
+  - score
+  - définition en français (simple!)
+    - exemples de phrases contextuelles (simple!)
+    - définition en anglais
+
+## Modèle économique
+
+Faire version gratuite avec une liste définie de mots
+
+- vendre des listes de mots par catégorie (sport, cuisine, marché, affaires...)
+
+## Idées en vrac fonctionnalitées
+
+Trackeur de progression :
+
+- Ne pas reproposer les mots ok
+  - nb_apparitions, nb_ok, last_ok_suite
 
 ### Back home
 
